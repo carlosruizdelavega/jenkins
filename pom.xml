@@ -39,3 +39,7 @@
     </plugins>
   </build>
 </project>
+
+  <!--role rolename="admin"/>
+  <role rolename="manager"/>  
+  <user username="tomcat" password="tomcat" roles="standard,manager,admin,manager-gui,manager-script" /--> 
